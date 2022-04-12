@@ -1,7 +1,5 @@
 <p align="center">
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/m1n4l/img@main/logo.svg" alt="AList Logo" width=200/>
-  </p>
 </p>
 
 <h2 align="center">NRSXの网盘</h2>
